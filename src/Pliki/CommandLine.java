@@ -1,6 +1,8 @@
 package Pliki;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class CommandLine {
@@ -10,15 +12,18 @@ public class CommandLine {
         CommandLine commandLine = new CommandLine();
         System.out.println("Powitanie");
         Scanner scanner= new Scanner(System.in);
-        String input;
+        String input="";
         while (true)
         {
             System.out.println(commandLine.currentDir);
+
             input=scanner.nextLine();
-            if (input.equals("exit"))
-                break;
+            if (input.equals("exit")) break;
+            String[] command = input.split(" ");
+
 
         }
+
     }
 
 }

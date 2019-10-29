@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74bf8371-649c-4527-8af9-d4743f09ecbe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kolekcje/Task15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kolekcje/Task15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pliki/CommandLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pliki/CommandLine.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager" selected="Application.CommandLine">
     <configuration name="BreakingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pliki.BreakingWindows" />
       <module name="Dzien pierwszy" />
@@ -118,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example" />
         <item itemvalue="Application.CommandLine" />
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.FromFileToFile" />
         <item itemvalue="Application.liveWrite" />
         <item itemvalue="Application.BreakingWindows" />
