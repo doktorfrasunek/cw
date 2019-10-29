@@ -12,11 +12,12 @@ public class Task15 {
 
             String key = String.valueOf(element.charAt(0));
             if (map.containsKey(key)) {
-                map.replace(key, map.get(key) +element);
+                map.replace(key, map.get(key) + element);
             } else {
                 map.put(key, element);
             }
         }
+
         return map;
     }
 
@@ -29,5 +30,6 @@ public class Task15 {
                 "gazeta"
         };
         System.out.println(firstCha(elements));
+
     }
 }
