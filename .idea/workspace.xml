@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74bf8371-649c-4527-8af9-d4743f09ecbe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pliki/CommandLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pliki/CommandLine.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +29,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -50,20 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandLine">
-    <configuration name="BreakingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pliki.BreakingWindows" />
-      <module name="Dzien pierwszy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pliki.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="CommandLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pliki.CommandLine" />
       <module name="Dzien pierwszy" />
@@ -77,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="obiekty.Example" />
+    <configuration name="Pracownik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="obiekty.Pracownik" />
       <module name="Dzien pierwszy" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FromFileToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pliki.FromFileToFile" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="obiekty.Task2" />
       <module name="Dzien pierwszy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pliki.*" />
+          <option name="PATTERN" value="obiekty.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="liveWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pliki.liveWrite" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="obiekty.Task3" />
       <module name="Dzien pierwszy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pliki.*" />
+          <option name="PATTERN" value="obiekty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="obiekty.Task5" />
+      <module name="Dzien pierwszy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="obiekty.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Pracownik" />
         <item itemvalue="Application.CommandLine" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.FromFileToFile" />
-        <item itemvalue="Application.liveWrite" />
-        <item itemvalue="Application.BreakingWindows" />
       </list>
     </recent_temporary>
   </component>
