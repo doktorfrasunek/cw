@@ -11,6 +11,6 @@ public class ListaArray {
         list.add(-10);
         System.out.println(list);
         list.remove(new Integer(2));
-        System.out.println(list);
+
     }
 }
