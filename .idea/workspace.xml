@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74bf8371-649c-4527-8af9-d4743f09ecbe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dzien pierwszy/META-INF/Dzien pierwszy.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dzien pierwszy/plik.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dzien pierwszy/rekrutacyjneAPI/plik.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -36,6 +34,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Battle" />
+      <recent name="blog" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AkademiaKodu\IdeaProjects\Dzien pierwszy" />
       <recent name="C:\Users\AkademiaKodu\IdeaProjects\Dzien pierwszy\src" />
@@ -54,33 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BankAcount (1)">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawanoswaneObiekty.ZOO.Animal" />
-      <module name="Dzien pierwszy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zaawanoswaneObiekty.ZOO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BalanceCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawanoswaneObiekty.banking.BalanceCounter" />
-      <module name="Dzien pierwszy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zaawanoswaneObiekty.banking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BankAcount (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zaawanoswaneObiekty.bank.BankAcount" />
       <module name="Dzien pierwszy" />
@@ -107,12 +83,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zaawanoswaneObiekty.zadaniaProste.Task" />
+    <configuration name="Deck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Battle.Deck" />
       <module name="Dzien pierwszy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zaawanoswaneObiekty.zadaniaProste.*" />
+          <option name="PATTERN" value="Battle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.Main" />
+      <module name="Dzien pierwszy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sklep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumy.Sklep" />
+      <module name="Dzien pierwszy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Deck" />
+        <item itemvalue="Application.Sklep" />
         <item itemvalue="Application.BankAcount (1)" />
         <item itemvalue="Application.BankAcount" />
-        <item itemvalue="Application.BalanceCounter" />
-        <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.Task" />
       </list>
     </recent_temporary>
   </component>
