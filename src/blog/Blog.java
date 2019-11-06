@@ -9,6 +9,7 @@ public class Blog {
     List<Post> posts = new ArrayList<>();
 
     void publishPost(int userID, String content) {
+
         posts.add(new Post(
                 users.get(userID), content));
     }
