@@ -6,8 +6,8 @@ import java.util.List;
 abstract public class Animal {
     private static int nextID=1;
     private int id;
-    String name;
-    float weight;
+    protected String name;
+    protected float weight;
     abstract void introduce();
 
     public String getName() {
